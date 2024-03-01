@@ -16,6 +16,7 @@ cd "pi22-1" &&
   git submodule add -f https://github.com/NikitinAnton/Nik &&
   git submodule add -f https://github.com/OlgaBochagina/boch &&
   git submodule add -f https://github.com/k1llRe4l/Pech
+  git submodule add -f https://github.com/hielv/ali
 
 
   pi22-2
