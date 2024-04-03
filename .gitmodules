@@ -235,3 +235,6 @@
 [submodule "ali"]
 	path = ali
 	url = https://github.com/hielv/ali
+[submodule "alieva_fa-np-practice"]
+	path = alieva_fa-np-practice
+	url = https://github.com/hielv/alieva_fa-np-practice
