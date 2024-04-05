@@ -238,3 +238,6 @@
 [submodule "alieva_fa-np-practice"]
 	path = alieva_fa-np-practice
 	url = https://github.com/hielv/alieva_fa-np-practice
+[submodule "7_TCP_server"]
+	path = 7_TCP_server
+	url = https://github.com/hielv/7_TCP_server
